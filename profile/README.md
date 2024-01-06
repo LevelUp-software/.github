@@ -1,5 +1,5 @@
 <p align="center">
-<img src="image-1.png" style="border-radius: 16px;">
+<img src="https://media.discordapp.net/attachments/660204904748417036/1193193555682926642/image.png?ex=65abd318&is=65995e18&hm=3c8ec593a7b03fd450408f74510d0402eb42ddf0df5b3315cda54090be0dee3e&=&format=webp&quality=lossless" style="border-radius: 16px;">
 </p>
 
 # Welcome to `LevelUp` org. 
