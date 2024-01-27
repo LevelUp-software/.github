@@ -42,4 +42,4 @@
 + You can send your *CV* or *GitHub* account link to us
 
 ---
-### Partnership - (Telegram) https://t.me/IIIIIIIIIIIIIIIIIlIIIIIIIIIIIIII *or hit our email*
+### Partnership - (Telegram) https://t.me/ca_sq *or hit our email*
